@@ -1,0 +1,15 @@
+5/2/20
+
+Tasks:
+- Need to set up favicon images referenced in <head> block
+- Clean up commented-out pieces in style.css
+- Clean up commented-out pieces in index.html
+
+CSS info to set background image opacity:
+https://scotch.io/tutorials/how-to-change-a-css-background-images-opacity
+
+The main recommendation causes the background image to overflow the div but the comments give a better answer:
+
+background-color: rgba(238, 238, 238, 0.81) !important;
+background-image: url(‘http://placekitten.com/1500/1000’);
+background-blend-mode: color;
