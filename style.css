@@ -77,6 +77,11 @@ td {
   margin-right: 31px;
 }
 
+#content {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
 #grid {
   margin-left: 15px;
   margin-right: 15px;
@@ -98,15 +103,11 @@ td {
   border-radius: 3px;
 }
 
-
-#content,
 #footer {
   margin-left: 31px;
   margin-right: 31px;
 }
 
-#content p,
-#content li,
 #footer {
   line-height: 16pt;
 }
@@ -115,26 +116,6 @@ td {
   margin-top: 15px;
   margin-bottom: 40px;
 }
-
-#content p {
-  margin: 0;
-  margin-bottom: 1em;
-}
-
-#content td,
-#content th {
-  padding: 5px;
-}
-
-#content td {
-  border-top: 1px solid #DDD;
-}
-
-#content th {
-  color: #666;
-  text-align: left;
-}
-
 
 @media all and (orientation:portrait) {
 

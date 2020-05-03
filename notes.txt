@@ -1,7 +1,7 @@
 5/2/20
 
 Tasks:
-- Need to set up favicon images referenced in <head> block
+- Need to set up favicon images referenced in <head> block of all html files
 [x] - Clean up commented-out pieces in style.css
 [x] - Clean up commented-out pieces in index.html
 - Replace all instances of <a href=“.”> with real links
