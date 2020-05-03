@@ -6,6 +6,7 @@ Tasks:
 [x] - Clean up commented-out pieces in index.html
 - Replace all instances of <a href=“.”> with real links
 [x] - Grid images need to be the same height
+- Font-sizing and spacing isn’t quite right on iPhone screen size
 
 CSS info to set background image opacity:
 https://scotch.io/tutorials/how-to-change-a-css-background-images-opacity
