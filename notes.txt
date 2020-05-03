@@ -5,7 +5,7 @@ Tasks:
 [x] - Clean up commented-out pieces in style.css
 [x] - Clean up commented-out pieces in index.html
 - Replace all instances of <a href=“.”> with real links
-- Grid images need to be the same height
+[x] - Grid images need to be the same height
 
 CSS info to set background image opacity:
 https://scotch.io/tutorials/how-to-change-a-css-background-images-opacity
