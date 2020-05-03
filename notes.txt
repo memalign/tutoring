@@ -13,3 +13,10 @@ The main recommendation causes the background image to overflow the div but the 
 background-color: rgba(238, 238, 238, 0.81) !important;
 background-image: url(‘http://placekitten.com/1500/1000’);
 background-blend-mode: color;
+
+Helpful info for CSS grid layout:
+https://codepen.io/snookca/pen/PmjExO
+https://www.w3schools.com/css/css_grid.asp
+https://alligator.io/css/align-justify/
+https://stackoverflow.com/questions/49514794/centering-grid-items-in-an-auto-fill-container
+https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
