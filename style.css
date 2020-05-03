@@ -64,8 +64,9 @@ td {
 #header {
   margin-bottom: 15px;
 
-  background-color: rgba(255, 255, 255, 0.47) !important;  
+  background-color: rgba(255, 255, 255, 0.7) !important;  
   background-image: url("m/desks.jpg");
+  background-size: cover;
   background-blend-mode: color;
   
   -webkit-border-radius: 3px;
