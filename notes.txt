@@ -2,8 +2,8 @@
 
 Tasks:
 - Need to set up favicon images referenced in <head> block
-- Clean up commented-out pieces in style.css
-- Clean up commented-out pieces in index.html
+[x] - Clean up commented-out pieces in style.css
+[x] - Clean up commented-out pieces in index.html
 - Replace all instances of <a href=“.”> with real links
 - Grid images need to be the same height
 
